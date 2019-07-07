@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LapitChat</string>
+    <string name="already_have_account">Already Have account</string>
+    <string name="need_a_new_account">Need a New Account?</string>
+    <string name="create_a_new_account">Create a New Account</string>
+    <string name="let_s_get_started">Let\'s Get Started</string>
+    <string name="new_email">New Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_to_your_account">Login To Your Account</string>
+    <string name="welcome_to_letschat">Welcome to LetsChat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
